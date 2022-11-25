@@ -11,7 +11,7 @@
     <title>Welcome PHP</title>
 </head> 
 <body>
-    <form action="filterPar.php" method="get">
+    <form action="filterPar.php" method="GET">
         <label for="newParagraph">Inserisci il paragrafo da filtrare</label><br>
         <textarea name="newParagraph" id="newParagraph" cols="30" rows="10"></textarea>
         <br>
