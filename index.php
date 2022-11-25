@@ -15,7 +15,7 @@
         <label for="newParagraph">Inserisci il paragrafo da filtrare</label><br>
         <textarea name="newParagraph" id="newParagraph" cols="30" rows="10"></textarea>
         <br>
-        <label for="badWord">Inserisci parola da oscurare</label><br>
+        <label for="badWord">Inserisci la parola da oscurare</label><br>
         <input type="text" id="badWord" name="badWord">
         <br><br>
         <input type="submit" value="Submit">
